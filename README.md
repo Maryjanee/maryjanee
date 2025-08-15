@@ -2,16 +2,15 @@
 
 Frontend Engineer who believes great code is both secure and accessible.
 
-I build web applications that perform well, work for everyone, and don't break under pressure. Currently exploring how frontend and cybersecurity intersect.
 
 * 💻 Building: High-performant applications for global users
-* 🌱 Learning: Application security and cyber forensics
+* 🌱 Learning: Cybersecurity
 
 
 
 <br>
 
-## 🛠 Technologies and Tools
+## 🛠 Some of my favourite tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -55,5 +54,5 @@ I build web applications that perform well, work for everyone, and don't break u
 <br>
 
 <div align="center">
-  <img src="./images/coding-image.jpg" width="600" height="300" alt="coding" />
+  <img src="./images/small.jpg" width="600" height="300" alt="coding" />
 </div>
