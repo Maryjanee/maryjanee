@@ -49,10 +49,10 @@ Frontend Engineer who believes great code is both secure and accessible.
 
 <br>
 
-**Let's connect:** [LinkedIn](https://linkedin.com/in/maryjane-akpagbue)
+
 
 <br>
 
 <div align="center">
-  <img src="./images/small.jpg" width="600" height="300" alt="coding" />
+  <img src="./Images/small.jpg" width="400" alt="coding" />
 </div>
